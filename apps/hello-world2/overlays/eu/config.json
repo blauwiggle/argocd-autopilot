@@ -1,0 +1,11 @@
+{
+  "appName": "hello-world2",
+  "userGivenName": "hello-world2",
+  "destNamespace": "default",
+  "destServer": "https://127.0.0.1:63480",
+  "srcPath": "apps/hello-world2/overlays/eu",
+  "srcRepoURL": "https://github.com/blauwiggle/argocd-autopilot.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
